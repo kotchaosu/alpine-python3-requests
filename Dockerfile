@@ -1,4 +1,4 @@
-FROM frolvlad/alpine-python3:latest
+FROM python:3.9.2-alpine3.13
 
 MAINTAINER Yuri Astrakhan <YuriAstrakhan@gmail.com>
 
